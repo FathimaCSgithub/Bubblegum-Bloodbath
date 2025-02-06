@@ -90,8 +90,8 @@ A 2D platformer built entirely using C++ that adheres to ECS architecture. It fe
     - Save levels
 
 ## Awards
-Best Overall Project
-Best Aesthetic
+- [Best Overall Project](BestProjectBB.pdf)
+- Best Aesthetic
 
 ## Contributers
 - Ethan Denny
