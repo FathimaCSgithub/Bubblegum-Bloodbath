@@ -88,10 +88,13 @@ A 2D platformer built entirely using C++ that adheres to ECS architecture. It fe
     - Create new levels
     - Modify existing levels
     - Save levels
-   
+
+## Awards
+Best Overall Project
+Best Aesthetic
 
 ## Contributers
-Ethan Denny \
-Fathima Manooja \
-Ripudaman Singh \
-Raunak Sarmacharya
+- Ethan Denny
+- Fathima Manooja
+- Ripudaman Singh
+- Raunak Sarmacharya
