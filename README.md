@@ -91,7 +91,7 @@ A 2D platformer built entirely using C++ that adheres to ECS architecture. It fe
    
 
 ## Contributers
-Ethan Denny
-Fathima Manooja
-Ripudaman Singh
+Ethan Denny \
+Fathima Manooja \
+Ripudaman Singh \
 Raunak Sarmacharya
