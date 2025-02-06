@@ -1,5 +1,5 @@
 # Bubblegum Bloodbath
-A 2D platformer built entirely using C++ that adheres to ECS architecture. It features multiple playable levels, a final boss battle, diverse weapons with unique mechanics, and fully customizable game settings. It also includes a level editor allows users to create, modify, and save their own levels.
+A 2D platformer built entirely using C++ that adheres to ECS architecture. It features multiple playable levels, a final boss battle, diverse weapons with unique mechanics, and fully customizable game settings. It also includes a level editor that allows users to create, modify, and save their own levels.
 
 ## Game Trailer
 [YouTube URL](https://youtu.be/APVTMvT-CXE)
