@@ -5,6 +5,15 @@ A 2D platformer built entirely using C++ that adheres to ECS architecture. It fe
 [YouTube URL](https://youtu.be/APVTMvT-CXE)
 
 ## Features
+- Levels
+  - 3 prebuilt levels
+  - Boss level
+- Custom Level Editor
+  - Allows you to:
+    - Create new levels
+    - Modify existing levels
+    - Save levels 
+- Overworld Level Select Map
 - Collisions
 - Movement
   - Our Game's Movement Abilities:
@@ -83,11 +92,6 @@ A 2D platformer built entirely using C++ that adheres to ECS architecture. It fe
     - Bats use steering to smooth their movement as they follow the player
 - Fancy NPC AI that goes above and beyond (boss goes through several phases, has three unique attacks, and will react to the player's movements)
 - Particle System
-- Custom Level Editor
-  - Allows you to:
-    - Create new levels
-    - Modify existing levels
-    - Save levels
 
 ## Awards
 - [Best Overall Project](BestProjectBB.pdf)
